@@ -8,11 +8,11 @@ _(from Kattis)_
 
 The world is made up of 10 kinds of people, those who understand binary and those who do not. (...) these two groups have divided the world into two regions, the binary-friendly zones and the decimal-friendly zones. They have even published a map like the following to help people keep up with where the areas are (they have used ones and zeros so nobody would have trouble reading it).
 
-1111100000
-1111000000
-1110000011
-0111100111
-0011111111
+1111100000\n
+1111000000\n
+1110000011\n
+0111100111\n
+0011111111\n
 
 Users of binary have to stay in the zones marked with a zero. Users of decimal have to stay in the zones marked with a one. You have to figure out if it is possible for either type of person to get between various locations of interest. 
 
